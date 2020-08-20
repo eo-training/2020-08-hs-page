@@ -1,0 +1,43 @@
+# Site Build Settings
+
+# Jekyll-paginate-v2 configuration
+#  pagination:
+#   enabled: true
+#   per_page: 5
+#   permalink: '/page/:num/'
+#   title: ':title - page :num of :max'
+#   limit: 0
+#   sort_field: 'date'
+#   sort_reverse: true
+
+# jekyll-paginate configuration
+paginate:            5
+
+# Build settings
+markdown:            kramdown
+highlighter:         rouge
+# permalink:           none
+plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
+
+# Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
+title:		           'High School Page Training'
+description:	       ''
+author:              'Office of Elections'
+
+# RSS 2.0 can be used instead of Atom by uncommenting following two lines
+#feed:
+#  path: rss-feed.xml
+
+# add collections
+
+collections:
+  slides:
+    output: true
+
+# Permalinks
+permalink:           /:short_year/:month/:title
+baseurl: /hs-page
+# Fix date/time generation
+timezone: America/New_York
+
+### Current domain: training.electionofficers.com
