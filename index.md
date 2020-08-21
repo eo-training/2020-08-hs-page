@@ -3,17 +3,17 @@ layout: home
 title: Home
 ---
 
-<img class="hero-image" src="{{ site.github.url }}/assets/img/chiefs-briefing-small.jpg">
+<img class="hero-image" src="{{ site.github.url }}/assets/img/high-school-pages-small.jpg">
 
 <div class="homepage-intro">
-Welcome to the New Chief & Assistant Chief online training class!
+Welcome to the High School Page online training class!
 </div>
 
 <div>
 <a class="homepage-button" href="{{ site.github.url }}/slides/001">Start training</a>
 </div>
 
-**Questions?** Call 703-324-4735 or email ElectionOfficerTraining@fairfaxcounty.gov. We are here to help!
+**Questions?** Call 703-324-4735 or email Beth.Methfessel@fairfaxcounty.gov. We are here to help!
 
 ---
 
@@ -28,6 +28,6 @@ Links:
 * <a href="{{ site.github.url }}/slides-thumbnails/">Slides Thumbnails</a>
 * <a href="{{ site.github.url }}/slides-summary/">Slides Summary</a>
 
-After reviewing the slides, you must take a quiz in the Election Officer Portal to receive credit and be eligible to serve as a new Chief or Assistant Chief.
+After reviewing the slides, you must take a quiz and submit an application to be eligible to serve as a High School Page.
 
 Again, please contact us if you have any questions. Thank you!
