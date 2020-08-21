@@ -8,7 +8,7 @@ body {
 }
 
 .ravi-header {
- background: crimson;
+ background: orangered;
  margin: -8px;
  color: #eee;
  margin-bottom:5px;
@@ -73,7 +73,7 @@ body {
 }
 
 .homepage-button {
-  background-color: crimson;
+  background-color: orangered;
   font-size: 1em;
   border-radius: 6px;
   box-shadow: 0 4px 4px 0 rgba(42,54,52,.1), 0 8px 8px 0 rgba(42,54,52,.1), 0 16px 16px 0 rgba(42,54,52,.1), 0 16px 32px 0 rgba(42,54,52,.1), 0 32px 64px 0 rgba(42,54,52,.1), 0 64px 128px 0 rgba(42,54,52,.1);
